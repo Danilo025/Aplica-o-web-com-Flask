@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Lato:wght@900&family=Montserrat&family=Roboto+Slab:wght@500&display=swap');
+
+body {
+    background-color: #76c5df;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
